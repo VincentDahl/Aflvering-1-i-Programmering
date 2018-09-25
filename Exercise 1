@@ -1,4 +1,6 @@
 class CrossSum
 
-public static main(args[])
+public static void main(String[] arg) {
+		
+	}
 
