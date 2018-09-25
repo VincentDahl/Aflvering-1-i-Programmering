@@ -1,3 +1,4 @@
-class Exercise1
+class CrossSum
 
-public static main(
+public static main(args[])
+
