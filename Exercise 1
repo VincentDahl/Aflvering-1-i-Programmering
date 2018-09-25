@@ -1,6 +1,13 @@
 class CrossSum
 
 public static void main(String[] arg) {
+
+
+
+
+
+
+	public static int crossSum(
 		
 	}
 
